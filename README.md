@@ -12,9 +12,11 @@ The goal was to identify which factors most strongly influence exam scores and p
 - **Power BI**: Used to validate results with additional visualizations.  
 
 ## 📊 Results
-- Homework completion and study hours are strong predictors of exam success.  
-- Attendance status had little direct correlation with scores.  
-- Parental involvement and teacher quality had minor positive effects.  
+- Unfortunately, the dataset used in this project did not yield clear or significant results.
+- From the Excel pivot table analysis, there was no strong relationship observed between homework completion and exam scores.
+- Similarly, Tableau & Power BI visualizations showed only minimal differences.
+
+
 
 ## 📂 Contents
 - `data/` → Raw and cleaned datasets  
